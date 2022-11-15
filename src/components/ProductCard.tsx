@@ -10,7 +10,7 @@ const ProductCard = (props: Props) => {
         <p className="product-category">
             PERFUME
         </p>
-        <h1 className="product-name dark-cyan">Gabrielle Essence Eau de Perfum</h1>
+        <h1 className="product-name">Gabrielle Essence Eau de Perfum</h1>
         <p className='product-description'>A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.</p>
         <div className="product-prices">
             <p className='product-newprice dark-cyan'>$149.99</p>
